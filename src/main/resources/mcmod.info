@@ -1,0 +1,16 @@
+[
+{
+  "modid": "connorcraft",
+  "name": "Connor Craft",
+  "description": "The highlight of Connor's life",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Unreal32"],
+  "credits": "All my hoes",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
